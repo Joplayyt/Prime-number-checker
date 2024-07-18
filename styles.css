@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4f4f4f;
+}
+
+header {
+    background-color: #08a341;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+}
+
+section {
+    background-color: grey;
+    margin: 1em 0;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(43, 43, 43, 0.1);
+}
+
+#prime-checker input {
+    padding: 0.5em;
+    font-size: 1em;
+}
